@@ -1,0 +1,39 @@
+﻿  FAT12.cpp
+e:\idata\os\lab_fat12\fat12\fat12\fat12.cpp(58): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(90): note: 参见“strcat”的声明
+e:\idata\os\lab_fat12\fat12\fat12\fat12.cpp(59): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(90): note: 参见“strcat”的声明
+e:\idata\os\lab_fat12\fat12\fat12\fat12.cpp(102): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\time.h(506): note: 参见“localtime”的声明
+e:\idata\os\lab_fat12\fat12\fat12\fat12.cpp(117): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\time.h(506): note: 参见“localtime”的声明
+e:\idata\os\lab_fat12\fat12\fat12\fat12.cpp(253): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: 参见“fopen”的声明
+e:\idata\os\lab_fat12\fat12\fat12\fat12.cpp(355): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(90): note: 参见“strcat”的声明
+e:\idata\os\lab_fat12\fat12\fat12\fat12.cpp(356): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(90): note: 参见“strcat”的声明
+e:\idata\os\lab_fat12\fat12\fat12\fat12.cpp(413): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(90): note: 参见“strcat”的声明
+e:\idata\os\lab_fat12\fat12\fat12\fat12.cpp(414): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(90): note: 参见“strcat”的声明
+e:\idata\os\lab_fat12\fat12\fat12\fat12.cpp(446): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: 参见“strcpy”的声明
+e:\idata\os\lab_fat12\fat12\fat12\fat12.cpp(427): warning C4101: “startByte”: 未引用的局部变量
+e:\idata\os\lab_fat12\fat12\fat12\fat12.cpp(426): warning C4101: “curClus”: 未引用的局部变量
+e:\idata\os\lab_fat12\fat12\fat12\fat12.cpp(514): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: 参见“strcpy”的声明
+e:\idata\os\lab_fat12\fat12\fat12\fat12.cpp(557): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: 参见“strcpy”的声明
+e:\idata\os\lab_fat12\fat12\fat12\fat12.cpp(578): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(90): note: 参见“strcat”的声明
+e:\idata\os\lab_fat12\fat12\fat12\fat12.cpp(631): warning C4101: “mode”: 未引用的局部变量
+e:\idata\os\lab_fat12\fat12\fat12\fat12.cpp(676): warning C4018: “<”: 有符号/无符号不匹配
+e:\idata\os\lab_fat12\fat12\fat12\fat12.cpp(704): warning C4018: “<”: 有符号/无符号不匹配
+e:\idata\os\lab_fat12\fat12\fat12\fat12.cpp(848): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: 参见“strcpy”的声明
+e:\idata\os\lab_fat12\fat12\fat12\fat12.cpp(877): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: 参见“strcpy”的声明
+e:\idata\os\lab_fat12\fat12\fat12\fat12.cpp(812): warning C4101: “tpEntry”: 未引用的局部变量
+e:\idata\os\lab_fat12\fat12\fat12\fat12.cpp(476): warning C4715: “WirteIntext”: 不是所有的控件路径都返回值
+  FAT12.vcxproj -> E:\iDATA\OS\LAB_FAT12\FAT12\Debug\FAT12.exe
